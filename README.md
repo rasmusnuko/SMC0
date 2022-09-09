@@ -57,4 +57,4 @@ UI includes a per-instrument mixing interface, featuring: volume control, pannin
 + Deciding on form of synthesis.
 + Building MVP.
 + Closed beta for larger composer audience.
-+ Release.
++ Official release.
