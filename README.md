@@ -1,0 +1,2 @@
+# SMC0
+SMC 2022, SMC0 Project
