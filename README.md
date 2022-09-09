@@ -4,9 +4,9 @@
 
 
 ### Key elements
-##### 1. **Synth engine**, to produce sound.
-##### 2. **ML Model**, to process sound.
-##### 3. **UI / UX**, to interact with the plugin.
+##### 1. **Synth engine** *to produce sound.*
+##### 2. **ML Model** *to process sound.*
+##### 3. **UI / UX** *to interact with the plugin.*
 
 ### Focus Group
 Want will establish a focus group with approx. 80% composers and 20% musicologist.
