@@ -3,7 +3,7 @@
 ### Problem
 
 
-### Key elements
+### Key Elements
 ##### 1. **Synth engine** *to produce sound.*
 ##### 2. **ML Model** *to process sound.*
 ##### 3. **UI / UX** *to interact with the plugin.*
