@@ -19,10 +19,8 @@ The musicologists can help us decide on the technical music perception and cogni
 <figure>
 <img src="pictures/gantt.png"
 style="width:75%">
-
 <figcaption align = "center">
-<b>Visual representation of the iterative work.</b>
-
+Visual representation of the iterative work.
 </figcaption>
 </figure>
 
