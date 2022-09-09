@@ -19,14 +19,9 @@ Want will establish a focus group with approx. 80% composers and 20% musicologis
 
 
 ### Milestones
-Establishing the focus group.
-
-Deciding on important expression parameters.
-
-Deciding on form of synthesis.
-
-Building MVP.
-
-Closed beta for larger composer audience.
-
-Release
++ Establishing the focus group.
++ Deciding on important expression parameters.
++ Deciding on form of synthesis.
++ Building MVP.
++ Closed beta for larger composer audience.
++ Release
