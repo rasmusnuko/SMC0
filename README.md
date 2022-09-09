@@ -4,8 +4,7 @@
 
 
 ## Focus Group
-Want will establish a focus group with approx.
-80% trained composers and 20% musicologists.
+We want to establish a focus group with approx.  80% trained composers and 20% musicologists.
 The majority is composers, since they are our end users.
 The musicologists can help us decide on the technical music perception and cognition factors.
 
