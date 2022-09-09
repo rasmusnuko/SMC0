@@ -16,11 +16,8 @@ The model alters the output of the synth with relevant characteristics of human 
 Based on specific musical contexts derived from the notation input.
 
 The model has been trained with a combination of live recordings and the corresponding musical score.
-The recordings are categorized based on their emotional and expressive properties. ()
+The recordings are categorized based on their emotional and expressive properties, in addition to melody, harmony, rhythm and repetition.
 
-
-
-The AI will learn how different musical notation accents are played by humans, and will reproduce those characteristics. Such as small variations in intensity and pitch (intensity, small pitch variations)
 
 
 #### **UI / UX** *to interact with the plugin.*
