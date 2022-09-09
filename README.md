@@ -12,11 +12,11 @@
 Want will establish a focus group with approx. 80% composers and 20% musicologist. The majority is composers, since they are our end users.
 
 ### Workflow
-[<img src="pictures/gantt.png" width="650"/>](pictures/gantt.png)
 ##### 1. Interview focus group for requirements
 ##### 2. Design product
 ##### 3. Develop
 ##### 4. Test with users
+[<img src="pictures/gantt.png" width="650"/>](pictures/gantt.png)
 
 
 ### Milestones
