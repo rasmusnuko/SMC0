@@ -18,7 +18,7 @@ The musicologists can help us decide on the technical music perception and cogni
 
 <figure>
 <figcaption align = "center">
-Visual representation of the iterative work.
+Visual representation of the iterative workflow.
 </figcaption>
 <img src="pictures/gantt.png"
 style="width:75%">
@@ -40,10 +40,10 @@ The model has been trained with a combination of live recordings and the corresp
 The recordings are categorized based on their emotional and expressive properties, in addition to melody, harmony, rhythm and repetition.
 
 #### **UI / UX**
-The UI is easy to use, and features easy parameter customization.
+The UI should be easy to use, and features easy parameter customization.
 This was achieved by surveying the focus group, and finding a middle ground where most users were satisfied.
 
-UI includes a per-instrument mixing interface, featuring: volume control, panning, reverb (small, medium, large, concert hall, church).
+Mixing interface with the possibility to group channels for small groups/sections.  Per-channel controls: volume, panning, reverb (small, medium, large, concert hall, church).
 
 #### **Aims**
 + Convincing playback (accurate representation of timbre, articulation and dynamics)
