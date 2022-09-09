@@ -5,8 +5,7 @@
 
 ## Key Elements
 #### **Synth engine**
-We will start out using sampled based synthesis.
-This has been based on trying to have a less CPU intensive synth engine.
+We use sample based synthesis, due to possibilty to have a less CPU intensive synth engine.
 
 The form of synthesis might be changed over time,
 if another alternative turns out to be more effective and realistic.
@@ -18,9 +17,16 @@ Based on specific musical contexts derived from the notation input.
 The model has been trained with a combination of live recordings and the corresponding musical score.
 The recordings are categorized based on their emotional and expressive properties, in addition to melody, harmony, rhythm and repetition.
 
+#### **UI / UX**
+The UI is easy to use, and features easy parameter customization.
+This was achieved by surveying the focus group, and finding a middle ground where most users were satisfied.
 
+UI features 
 
-#### **UI / UX** *to interact with the plugin.*
+#### **Aims**
++ Convincing playback (accurate representation of timbre, articulation and dynamics)
+  - Endorsed by at least 70% of the focus group.
++ Support for industry standard notation software (Sibelius, Dorico, Finale)
 
 ## Focus Group
 Want will establish a focus group with approx. 80% composers and 20% musicologist. The majority is composers, since they are our end users.
