@@ -1,17 +1,34 @@
 # **NotePerformer**
 
-### Problem
+## Problem
 
 
-### Key Elements
-##### 1. **Synth engine** *to produce sound.*
-##### 2. **ML Model** *to process sound.*
-##### 3. **UI / UX** *to interact with the plugin.*
+## Key Elements
+#### **Synth engine**
+We will start out using sampled based synthesis.
+This has been based on trying to have a less CPU intensive synth engine.
 
-### Focus Group
+The form of synthesis might be changed over time,
+if another alternative turns out to be more effective and realistic.
+
+#### **ML Model**
+The model alters the output of the synth with relevant characteristics of human expressiveness.
+Based on specific musical contexts derived from the notation input.
+
+The model has been trained with a combination of live recordings and the corresponding musical score.
+The recordings are categorized based on their emotional and expressive properties. ()
+
+
+
+The AI will learn how different musical notation accents are played by humans, and will reproduce those characteristics. Such as small variations in intensity and pitch (intensity, small pitch variations)
+
+
+#### **UI / UX** *to interact with the plugin.*
+
+## Focus Group
 Want will establish a focus group with approx. 80% composers and 20% musicologist. The majority is composers, since they are our end users.
 
-### Workflow
+## Workflow
 ##### 1. Interview focus group for requirements
 ##### 2. Design product
 ##### 3. Develop
@@ -19,10 +36,10 @@ Want will establish a focus group with approx. 80% composers and 20% musicologis
 [<img src="pictures/gantt.png" width="650"/>](pictures/gantt.png)
 
 
-### Milestones
+## Milestones
 + Establishing the focus group.
 + Deciding on important expression parameters.
 + Deciding on form of synthesis.
 + Building MVP.
 + Closed beta for larger composer audience.
-+ Release
++ Release.
