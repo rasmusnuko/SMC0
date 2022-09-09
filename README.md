@@ -43,7 +43,7 @@ The recordings are categorized based on their emotional and expressive propertie
 The UI is easy to use, and features easy parameter customization.
 This was achieved by surveying the focus group, and finding a middle ground where most users were satisfied.
 
-UI features 
+UI includes simple mixing features per instrument: volume control, panning, reverb (small, medium, large, concert hall, church).
 
 #### **Aims**
 + Convincing playback (accurate representation of timbre, articulation and dynamics)
