@@ -15,6 +15,7 @@ The musicologists can help us decide on the technical music perception and cogni
 ##### 2. Design product
 ##### 3. Develop
 ##### 4. Test with users
+###### Visual representation of the iterative work.
 [<img src="pictures/gantt.png" width="650"/>](pictures/gantt.png)
 
 
