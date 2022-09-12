@@ -44,16 +44,13 @@ This was achieved by surveying the focus group, and finding a middle ground wher
 
 Mixing interface with the possibility to group channels for small groups/sections.  Per-channel controls: volume, panning, reverb (small, medium, large, concert hall, church).
 
-#### **Aims**
-+ Convincing playback (accurate representation of timbre, articulation and dynamics)
-  - Endorsed by at least 70% of the focus group.
-+ Support for industry standard notation software (Sibelius, Dorico, Finale)
-
-
 ## Milestones
 + Establish the focus group.
 + Decide on important expression parameters.
 + Decide on form of synthesis.
 + Build MVP.
++ Convincing playback (accurate representation of timbre, articulation and dynamics)
+  - Endorsed by at least 70% of the focus group.
++ Support for industry standard notation software (Sibelius, Dorico, Finale)
 + Closed beta for larger composer audience.
 + Official release.
