@@ -1,8 +1,7 @@
 # **NotePerformer**
 
 ## Problem
-An accurate portrayal of a musical piece is not always guaranteed, due to poor playback qualities, both the overall sound and phrasing prevent the composer from having a seamless workflow. 
-
+Accurate portrayal of a musical piece from digital engraving software is not always guaranteed. This is due to poor playback qualities, both the overall sound and phrasing prevent the composer from having a seamless workflow. 
 
 ## Focus Group
 We want to establish a focus group with approx.  80% trained composers and 20% musicologists.
