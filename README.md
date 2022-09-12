@@ -1,6 +1,7 @@
 # **NotePerformer**
 
 ## Problem
+An accurate portrayal of a musical piece is not always guaranteed, due to poor playback qualities, both the overall sound and phrasing prevent the composer from having a seamless workflow. 
 
 
 ## Focus Group
