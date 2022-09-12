@@ -20,7 +20,6 @@ The musicologists can help us decide on the technical music perception and cogni
 Visual representation of the iterative workflow.
 </figcaption>
 <img src="pictures/gantt.png"
-style="width:75%">
 </figure>
 
 
