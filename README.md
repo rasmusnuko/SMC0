@@ -51,9 +51,9 @@ Mixing interface with the possibility to group channels for small groups/section
 
 
 ## Milestones
-+ Establishing the focus group.
-+ Deciding on important expression parameters.
-+ Deciding on form of synthesis.
-+ Building MVP.
++ Establish the focus group.
++ Decide on important expression parameters.
++ Decide on form of synthesis.
++ Build MVP.
 + Closed beta for larger composer audience.
 + Official release.
