@@ -33,11 +33,6 @@ have access to high-quality rendering with a single orchestral library.
 + Accessible + easy to use UI, determined by the input of the focus group. 
 + Support Industry standard notation software (Sibelius, Finale, Dorico)
 
-## Focus Group
-We want to establish a focus group with approx. 80% trained composers and 20% musicologists.
-The majority is composers, since they are our end users.
-The musicologists can help us decide on the technical music perception and cognition factors.
-
 ## Workflow
 1. Interview focus group for requirements
 2. Design product
@@ -51,6 +46,10 @@ When we have a design finalized, we can start the development of this feature.
 When the development is done, the focus group can evaluate this feature.
 With this feedback, the next iteration can start.
 
+#### Focus Group
+We want to establish a focus group with approx. 80% trained composers and 20% musicologists.
+The majority is composers, since they are our end users.
+The musicologists can help us decide on the technical music perception and cognition factors.
 
 <figure>
 <figcaption align = "center">
