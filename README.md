@@ -7,15 +7,6 @@ The overall sound is artificial and phrasing does not sound natural, preventing 
 ## Product
 
 ## Requirements
-#### NON-FUNCTIONAL
-+ Natural sounding.
-  - Timbre, dynamics, articulation.
-  - 70% of the focus group should be satisfied with the sound.
-+ Tested and endorsed by trained composers
-+ Easy parameter customization.
-+ Accessible + easy to use UI, determined by the input of the focus group. 
-+ Support Industry standard notation software (Sibelius, Finale, Dorico)
-
 #### FUNCTIONAL
 + Sample based synthesis, in order to play instrument recordings.
 + Multiple recordings of each: Instrument $\times$ Pitch $\times$  Intensity $\times$ Technique.
@@ -27,6 +18,15 @@ The overall sound is artificial and phrasing does not sound natural, preventing 
   1. Per staff.
   2. Per section.
   3. Master.
+
+#### NON-FUNCTIONAL
++ Natural sounding.
+  - Timbre, dynamics, articulation.
+  - 70% of the focus group should be satisfied with the sound.
++ Tested and endorsed by trained composers
++ Easy parameter customization.
++ Accessible + easy to use UI, determined by the input of the focus group. 
++ Support Industry standard notation software (Sibelius, Finale, Dorico)
 
 ## Workflow
 ##### 1. Interview focus group for requirements
