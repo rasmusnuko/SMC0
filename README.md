@@ -5,6 +5,11 @@ When using digital engraving software, accurate portrayal of a musical piece is 
 The overall sound is artificial and phrasing does not sound natural, preventing the composer from having a seamless workflow. 
 
 ## Product
+Thanks to the use of sophisticated synthesis and machine learning,
+Noteperfomer can deliver true-to-life, expressive and natural
+sounding playback of your musical scores. 
+With its easy-to-use interface, all composers, musicians, and music students can
+have access to high-quality rendering with a single orchestral library. 
 
 ## Requirements
 #### FUNCTIONAL
