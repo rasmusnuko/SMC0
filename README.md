@@ -44,7 +44,7 @@ In the start of an iterations we hear the opinion of the focus group
 on some feature, e.g. the sound of the synth. With this feedback we can
 begin to (re)design some feature of the product. When we have a design finalized, we
 can start the development of this feature. When the development is done,
-the focus group can evaluate this feature. With this feedback, the next iteration 
+the focus group can evaluate this feature. With this feedback, the next iteration.
 can start
 
 
