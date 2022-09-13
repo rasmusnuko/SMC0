@@ -34,10 +34,10 @@ The majority is composers, since they are our end users.
 The musicologists can help us decide on the technical music perception and cognition factors.
 
 ## Workflow
-##### 1. Interview focus group for requirements
-##### 2. Design product
-##### 3. Develop
-##### 4. Test with users
+1. Interview focus group for requirements
+2. Design product
+3. Develop
+4. Test with users
 
 #### Iterations and Evaluations
 In the start of an iterations we hear the opinion of the focus group
