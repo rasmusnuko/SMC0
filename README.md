@@ -60,22 +60,22 @@ Visual representation of the iterative workflow.
 </figure>
 
 ## Milestones
-[MS1] Establish focus group.
+**[MS1]** Establish focus group.
 
-[MS2] Decide important expression parameters.
+**[MS2]** Decide important expression parameters.
 
-[MS3] Synth engine version 1 complete.
+**[MS3]** Synth engine version 1 complete.
 
-[MS4] ML Model implemented. 
+**[MS4]** ML Model implemented. 
 
-[MS5] Build MVP.
+**[MS5]** Build MVP.
 
-[MS6] User evaluation complete.
+**[MS6]** User evaluation complete.
 
-[MS7] Support for industry standard notation software (Sibelius, Dorico, Finale).
+**[MS7]** Support for industry standard notation software (Sibelius, Dorico, Finale).
 
-[MS8] Closed beta for larger composer audience.
+**[MS8]** Closed beta for larger composer audience.
 
-[MS9] Beta user evaluation complete.
+**[MS9]** Beta user evaluation complete.
 
-[MS10] Official release.
+**[MS10]** Official release.
