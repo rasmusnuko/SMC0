@@ -78,4 +78,8 @@ Visual representation of the iterative workflow.
 
 **[MS9]** Beta user evaluation complete.
 
-**[MS10]** Official release.
+**[MS10]** Finale synth before release complete.
+
+**[MS11]** Finale ML model before release complete.
+
+**[MS12]** Official release.
