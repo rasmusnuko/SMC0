@@ -14,7 +14,7 @@ The overall sound is artificial and phrasing does not sound natural, preventing 
   - Large training dataset of different orchestral recordings and notation in various different configurations / situations.
   - As well as categorization of these recordings. Based on music perception and cognition.
 + Ability to toggle AI on output on/off.
-+ Mixing possibilities. Volume adjustments, panning, reverb (small, med, large rooms, concert hall, church), EQ, compressor.
++ Mixing possibilities. Volume adjustments, panning, reverb, EQ, compressor.
   1. Per staff.
   2. Per section.
   3. Master.
@@ -47,7 +47,6 @@ can start the development of this feature. When the development is done,
 the focus group can evaluate this feature. With this feedback, the next iteration.
 can start
 
-
 <figure>
 <figcaption align = "center">
 Visual representation of the iterative workflow.
@@ -57,7 +56,7 @@ Visual representation of the iterative workflow.
 </figure>
 
 ## Milestones
-1. Establish the focus group.
+1. Establish focus group.
 2. Decide important expression parameters.
 3. Synth engine version 1 complete.
 4. ML Model implemented. 
@@ -65,5 +64,6 @@ Visual representation of the iterative workflow.
 6. User evaluation complete.
 7. Support for industry standard notation software (Sibelius, Dorico, Finale).
 8. Closed beta for larger composer audience.
-9. Official release.
+9. Beta user evaluation complete.
+10. Official release.
 
